@@ -1,0 +1,15 @@
+CMakeFiles/*
+CMakeCache.txt
+
+*
+!**/*.cpp
+!**/*.h
+!**/*.txt
+!**/*.sh
+!**/*.md
+!**/*.pdf
+!**/*.gz
+!Makefile
+!**/*.py
+!.gitignore
+
