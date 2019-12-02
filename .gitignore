@@ -1,15 +1,17 @@
 *
 
-!**/*.cpp
-!**/*.h
-!**/*.txt
-!**/*.sh
-!**/*.md
-!**/*.pdf
-!**/*.gz
+!*.cpp
+!*.h
+!*.txt
+!*.sh
+!*.md
+!*.pdf
+!*.gz
 !Makefile
-!**/*.py
+!*.py
 !.gitignore
+
+!*/
 
 CMakeFiles/*
 CMakeCache.txt
