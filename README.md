@@ -11,7 +11,7 @@ using SEAL's Galois Automorphisms functions and pixel-wise multiplying each rota
 each with the appropriate weights, and then summing them. 
 
 ## Conference Poster
-SafetyNets were presented at a Undergraduate Research Expo at the NSF Center for Space, High Performance, and Resilient Computing (SHREC). Here is the [poster.](https://github.com/fullprocess/SafetyNets/edit/master/Poster.pdf)
+SafetyNets were presented at a Undergraduate Research Expo at the NSF Center for Space, High Performance, and Resilient Computing (SHREC). Here is the [poster.](https://github.com/fullprocess/SafetyNets/blob/master/Poster.pdf)
 
 ## Links
 [Fully Homomorphic Encryption from LWE (no rings)](https://eprint.iacr.org/2011/344.pdf)  
