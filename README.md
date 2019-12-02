@@ -11,6 +11,6 @@ using SEAL's Galois Automorphisms functions and pixel-wise multiplying each rota
 each with the appropriate weights, and then summing them. 
 
 ## Links
-(Fully Homomorphic Encryption from LWE (no rings))[https://eprint.iacr.org/2011/344.pdf]
-(Microsoft SEAL paper)[https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/sealmanual_v2.2.pdf]
+[https://eprint.iacr.org/2011/344.pdf](Fully Homomorphic Encryption from LWE (no rings))  
+[https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/sealmanual_v2.2.pdf](Microsoft SEAL paper)
 
